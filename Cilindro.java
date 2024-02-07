@@ -44,7 +44,7 @@ public class Cilindro {
         return altura;
     }
 /**
- * Le asignamos el valor a la altura.
+ * Le asignamos el valo a la altura.
  * @param altura Le asignamos la altura.
  */
     public void setAltura(double altura) {
@@ -83,7 +83,7 @@ public class Cilindro {
     }
      /**
       * Aqui tenemos nuestro main
-      * @param args es una cosa Ejecutamos el codigo
+      * @param args es una cosa Ejecutamos el codigo...
       */
     public static void main(String[] args) {
         Cilindro cilindro1 = crearCilindro(1);
